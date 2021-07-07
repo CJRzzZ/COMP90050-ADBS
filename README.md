@@ -20,7 +20,8 @@
     - basic hardware
 
     - Disk access
-     - $f(x)=ax+b$
+     - <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+
         Disk access time = seek time + rotational time + transfer length /
 3. SSD (Solid-State Drive/Solid-State Disk)
   
